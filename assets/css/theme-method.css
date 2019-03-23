@@ -693,6 +693,7 @@ a:hover, a:focus, a:active { color: #091b3a; }
 .theme-method .site-header.has-fixed .navbar-nav > li > a { color: #353c65; }
 .theme-method .site-header.has-fixed .navbar .btn.btn-outline { border-color: #091b3a; color: #091b3a; }
 .theme-method .site-header.has-fixed .navbar .btn.btn-outline:hover { color: #fff; }
+/* .theme-method .site-header .banner { background: url(../images/favicon.png);  background-repeat: repeat; } */
 /* .theme-method .site-header .banner { background: url(../images/pattern-method.png), linear-gradient(45deg, #c5f200 0%, #137a16 100%); background-size: cover; } */
 /* .theme-method .site-header .banner:before, .theme-method .site-header .banner:after { background: rgba(255, 255, 255, 0.02); } */
 .theme-method .site-header .banner .banner-content p.lead { color: ‎#061b3c; }
