@@ -805,7 +805,7 @@ a:hover, a:focus, a:active { color: #091b3a; }
 
 .social-link-exp li a [class*=fa-] { background: rgba(255, 255, 255, 0.15); color: rgb(20, 10, 10); }
 .social-link-exp li a span { color: rgba(10, 19, 44, 0.5); color: #061b3c81; }
-.social-link-exp li a:hover [class*=fa-] { background:rgba(184, 211, 34, 0.87); }
+.social-link-exp li a:hover [class*=fa-] { background:rgba(185, 244, 9, 0.87); }
 .social-link-exp li a:hover span { color: #061b3c; }
 
 .footer-method .widget-list li { color: #96ecba; }
