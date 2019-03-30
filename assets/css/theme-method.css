@@ -1034,7 +1034,15 @@ a:hover, a:focus, a:active { color: #091b3a; }
   line-height: 50px;
   width: 50px;
 }
-
+@media screen and (max-width: 600px) {
+  .graph-img {
+   margin-right: 15%;
+   
+  }
+  .header-contact{
+    padding-right: 35%;
+  }
+}
 .select2-dropdown {
   color: #353c65 !important;
   background: #fff;
