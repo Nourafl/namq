@@ -9,7 +9,7 @@ $emailTO = $emailBCC =  $emailCC = array(); $formEmail = '';
 $sitename = 'nmaq';
 
 ### Enter your email addresses: @required
-$emailTO[] = array( 'email' => 'info.nmq.sa@gmail.com', 'name' => 'nmaq website' ); 
+$emailTO[] = array( 'email' => 'nour3_@hotmail.com', 'name' => 'nmaq website' ); 
 
 ### Enable bellow parameters & update your BCC email if require.
 $emailBCC[] = array( 'email' => 'abxotb@gmail.com', 'name' => 'Website Devolper' );
@@ -20,7 +20,7 @@ $emailBCC[] = array( 'email' => 'abxotb@gmail.com', 'name' => 'Website Devolper'
 ### Enter Email Subject
 $subject = "Contact Us " . ' - ' . $sitename; 
 
-$formEmail = 'info.nmq.sa@gmail.com';
+$formEmail = 'nour3_@hotmail.com';
 
 ### Success Messages
 $msg_success = "تم استقبال <strong>طلب التواصل</strong> منكم بنجاح، سيتم التواصل معكم بأسرع وقت ممكن";

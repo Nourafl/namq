@@ -671,6 +671,7 @@ a:hover, a:focus, a:active { color: #091b3a; }
 
 /** @method @v140 */
 .theme-method { background: #fff; }
+.theme-method h1 {text-align: center;}
 .theme-method .loader-section { background: #fcfcfc; }
 .theme-method .btn { background: #091b3a; }
 .theme-method .btn:hover { background: #c5f200; }
@@ -1034,11 +1035,15 @@ a:hover, a:focus, a:active { color: #091b3a; }
   line-height: 50px;
   width: 50px;
 }
+
+.logofront{margin-left: 8%;}
 @media screen and (max-width: 600px) {
   .graph-img {
    margin-right: 15%;
    
   }
+  .gaps.size-2x {height: 0;}
+  .logofront{margin-left: 0%;}
   .header-contact{
     padding-right: 35%;
   }
